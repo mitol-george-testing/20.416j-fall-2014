@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b4b63c36-292a-b08f-bd21-0252707b9c2e",
+      "affe3290-73b1-5538-b2d0-b61c6c60033a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Biophysics and Physical Biology",
+  "course_description": "This course provides broad exposure to research in biophysics and physical biology, with emphasis on the critical evaluation of scientific literature. Weekly meetings include in-depth discussion of scientific literature led by various MIT faculty on active research topics. Each session also includes a brief discussion of non-research topics including effective presentation skills, writing papers and fellowship proposals, choosing scientific and technical research topics, time management, and scientific ethics.\n",
+  "department_numbers": [
+    "20",
+    "7",
+    "8"
+  ],
+  "extra_course_numbers": "7.74J,8.590J",
+  "primary_course_number": "20.416J",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
